@@ -1,0 +1,15 @@
+## Interface: 11200
+## Title: GamonKillTimer|cff7fff7f -Ace2-|r
+## Author: |cff00FF00Renew @ vanillagaming.org
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables:
+Libs\AceLibrary\AceLibrary.lua
+Libs\AceOO-2.0\AceOO-2.0.lua
+Libs\AceEvent-2.0\AceEvent-2.0.lua
+Libs\AceAddon-2.0\AceAddon-2.0.lua
+Libs\Compost-2.0\Compost-2.0.lua
+Libs\PaintChips-2.0\PaintChips-2.0.lua
+Libs\CandyBar-2.0\CandyBar-2.0.lua
+
+GTK.lua
